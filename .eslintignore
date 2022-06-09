@@ -1,0 +1,8 @@
+node_modules
+public/scripts
+tailwind.config.js
+dist
+build
+coverage
+.eslintcache
+.vscode/launch.json
